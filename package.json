@@ -4,7 +4,12 @@
   "description": "Aprendiendo Asincronismo en JavaScript",
   "main": "index.js",
   "scripts": {
-    "callback": "node src/callback/index.js"
+    "callback": "node src/callback/index.js",
+    "callback:api": "node src/callback/api.js",
+    "promise": "node src/promise/index.js",
+    "promise:api": "node src/promise/api.js",
+    "async": "node src/async/index.js",
+    "async:api": "node src/async/api.js"
   },
   "keywords": [
     "callback",
